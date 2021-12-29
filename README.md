@@ -1,4 +1,7 @@
 # EgoWeb-Project-Data
-Repository for Sharing of Data from Projects Using EgoWeb
+This is a Data repository for sharing of data from projects using EgoWeb 2.0.
 
-Files for replicating analysis published in PONE-D-19-36073R1
+Each folder will be named according to an ID for a publication.  
+
+PONE-D-19-36073R1:
+Includes .csv file with data, R workbook for importing and replicating analysis, and a pdf codebook for interpretation of variables. 
